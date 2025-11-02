@@ -1,0 +1,26 @@
+[{
+  "_id": {
+    "$oid": "690744fd7fef1e53338b85bb"
+  },
+  "jobId": "69073ee27fef1e53338b83d3",
+  "candidateId": "690743f87fef1e53338b8526",
+  "employerId": "69071c484e1bd731bb7cf0e0",
+  "applicationId": "6907443a7fef1e53338b8544",
+  "scheduledAt": {
+    "$date": "2025-11-03T03:00:00.000Z"
+  },
+  "duration": 60,
+  "status": "scheduled",
+  "confirmed": true,
+  "type": "online",
+  "location": null,
+  "meetingLink": "meet.google/434c-rcer-ecr",
+  "notes": "Please be prepared to discuss your experience and technical skills.",
+  "createdAt": {
+    "$date": "2025-11-02T11:48:13.665Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-02T11:50:56.508Z"
+  },
+  "__v": 0
+}]

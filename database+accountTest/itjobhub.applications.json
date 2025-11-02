@@ -1,0 +1,161 @@
+[{
+  "_id": {
+    "$oid": "690741167fef1e53338b8442"
+  },
+  "jobId": "69073ec37fef1e53338b83cb",
+  "candidateId": "690740cb7fef1e53338b8423",
+  "employerId": "69071c484e1bd731bb7cf0e0",
+  "status": "pending",
+  "coverLetter": "I'm thrilled to apply for the Lead Flutter Dev role at Tech Viet Company. My strong backend background with Python, FastAPI, Docker, and PostgreSQL provides a solid foundation in system architecture and problem-solving, crucial for a lead position. I am passionate about leveraging this expertise to master Flutter, guiding mobile development, and delivering innovative solutions. My Đại học Bách Khoa Hà Nội education reinforces my technical acumen. I am eager to contribute my leadership and drive to Tech Viet.",
+  "matchPercentage": 75,
+  "timeline": [
+    {
+      "status": "pending",
+      "timestamp": {
+        "$date": "2025-11-02T11:31:34.601Z"
+      },
+      "note": "Application submitted"
+    }
+  ],
+  "isViewed": false,
+  "createdAt": {
+    "$date": "2025-11-02T11:31:34.602Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-02T11:31:34.602Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "690742627fef1e53338b84a9"
+  },
+  "jobId": "69073f927fef1e53338b83ec",
+  "candidateId": "690742177fef1e53338b8488",
+  "employerId": "69071c484e1bd731bb7cf0e0",
+  "status": "pending",
+  "coverLetter": "I am excited to apply for the Fullstack Dev position at Big Viet Company. As a Backend Developer at Tech Company, my expertise in Python, FastAPI, Docker, and PostgreSQL perfectly aligns with your needs. My Kỹ sư degree from ĐH Bách Khoa Hà Nội honed my problem-solving skills, enabling me to contribute effectively across the stack. I am eager to bring my skills and passion to your innovative team.",
+  "matchPercentage": 75,
+  "timeline": [
+    {
+      "status": "pending",
+      "timestamp": {
+        "$date": "2025-11-02T11:37:06.344Z"
+      },
+      "note": "Application submitted"
+    }
+  ],
+  "isViewed": false,
+  "createdAt": {
+    "$date": "2025-11-02T11:37:06.344Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-02T11:37:06.344Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "690743177fef1e53338b84d8"
+  },
+  "jobId": "69073f927fef1e53338b83ec",
+  "candidateId": "69071c184e1bd731bb7cf0dd",
+  "employerId": "69071c484e1bd731bb7cf0e0",
+  "status": "pending",
+  "coverLetter": "As Nguyễn Văn A, a Backend Developer at Tech Company, my Kỹ sư degree from Đại học Bách Khoa Hà Nội, coupled with strong Python, FastAPI, Docker, and PostgreSQL skills, perfectly positions me for Big Viet Company's Fullstack dev role. I'm adept at backend development and keen to expand into frontend, leveraging my robust foundation to deliver comprehensive solutions. My enthusiasm for your innovative projects and Big Viet Company's vision is immense. I am confident in contributing significantly.",
+  "matchPercentage": 75,
+  "timeline": [
+    {
+      "status": "pending",
+      "timestamp": {
+        "$date": "2025-11-02T11:40:07.620Z"
+      },
+      "note": "Application submitted"
+    }
+  ],
+  "isViewed": false,
+  "createdAt": {
+    "$date": "2025-11-02T11:40:07.620Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-02T11:40:07.620Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "690743727fef1e53338b84ff"
+  },
+  "jobId": "69073ed17fef1e53338b83cf",
+  "candidateId": "69071c184e1bd731bb7cf0dd",
+  "employerId": "69071c484e1bd731bb7cf0e0",
+  "status": "pending",
+  "coverLetter": "As Nguyễn Văn A, a Backend Developer with a Kỹ sư degree from Đại học Bách Khoa Hà Nội, I am highly interested in Tech Viet Company's IT position. My experience aligns perfectly, utilizing Python, FastAPI, Docker, and PostgreSQL for robust solutions. I am eager to bring my proven backend skills to your innovative team and contribute significantly.",
+  "matchPercentage": 75,
+  "timeline": [
+    {
+      "status": "pending",
+      "timestamp": {
+        "$date": "2025-11-02T11:41:38.591Z"
+      },
+      "note": "Application submitted"
+    }
+  ],
+  "isViewed": false,
+  "createdAt": {
+    "$date": "2025-11-02T11:41:38.591Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-02T11:41:38.591Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6907443a7fef1e53338b8544"
+  },
+  "jobId": "69073ee27fef1e53338b83d3",
+  "candidateId": "690743f87fef1e53338b8526",
+  "employerId": "69071c484e1bd731bb7cf0e0",
+  "status": "approved",
+  "coverLetter": "Nền tảng kỹ sư Công nghệ thông tin từ ĐH Bách Khoa, cùng kinh nghiệm backend và kỹ năng Python, FastAPI, giúp tôi thấu hiểu sâu sắc sản phẩm công nghệ. Điều này là lợi thế lớn để tôi truyền tải giá trị sản phẩm hiệu quả trong vai trò Marketing tại Tech Viet Company. Tôi đam mê công nghệ và mong muốn áp dụng góc nhìn kỹ thuật độc đáo này để phát triển Tech Viet. Tôi tin mình có thể đóng góp giá trị to lớn.",
+  "matchPercentage": 75,
+  "timeline": [
+    {
+      "status": "pending",
+      "timestamp": {
+        "$date": "2025-11-02T11:44:58.383Z"
+      },
+      "note": "Application submitted"
+    },
+    {
+      "status": "interview_scheduled",
+      "timestamp": {
+        "$date": "2025-11-02T11:48:13.666Z"
+      },
+      "note": "Interview scheduled for 3/11/2025"
+    },
+    {
+      "status": "reviewing",
+      "timestamp": {
+        "$date": "2025-11-02T11:48:15.921Z"
+      },
+      "note": "Status updated to Reviewing"
+    },
+    {
+      "status": "approved",
+      "timestamp": {
+        "$date": "2025-11-02T11:51:55.279Z"
+      },
+      "note": "Status updated to Approved"
+    }
+  ],
+  "isViewed": false,
+  "createdAt": {
+    "$date": "2025-11-02T11:44:58.383Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-02T11:51:55.279Z"
+  },
+  "__v": 0
+}]

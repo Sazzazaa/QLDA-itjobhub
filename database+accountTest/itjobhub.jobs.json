@@ -1,0 +1,150 @@
+[{
+  "_id": {
+    "$oid": "69073ed17fef1e53338b83cf"
+  },
+  "title": "IT job",
+  "description": "A",
+  "requirements": "A",
+  "employerId": "69071c484e1bd731bb7cf0e0",
+  "companyName": "Tech Viet Company",
+  "location": "A",
+  "jobType": "onsite",
+  "experienceLevel": "mid",
+  "contractType": "full-time",
+  "techStack": [
+    "A"
+  ],
+  "applicantsCount": 1,
+  "viewsCount": 0,
+  "status": "active",
+  "isFeatured": false,
+  "benefits": [],
+  "embedding": [],
+  "createdAt": {
+    "$date": "2025-11-02T11:21:53.593Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-02T11:41:38.597Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69073ee27fef1e53338b83d3"
+  },
+  "title": "Marketing",
+  "description": "A",
+  "requirements": "A",
+  "employerId": "69071c484e1bd731bb7cf0e0",
+  "companyName": "Tech Viet Company",
+  "location": "A",
+  "jobType": "remote",
+  "experienceLevel": "mid",
+  "contractType": "full-time",
+  "techStack": [
+    "AA"
+  ],
+  "applicantsCount": 1,
+  "viewsCount": 0,
+  "status": "active",
+  "isFeatured": false,
+  "benefits": [],
+  "embedding": [],
+  "createdAt": {
+    "$date": "2025-11-02T11:22:10.345Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-02T11:44:58.387Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69073f397fef1e53338b83de"
+  },
+  "title": "Marketing employee",
+  "description": "A",
+  "requirements": "A",
+  "employerId": "69071c484e1bd731bb7cf0e0",
+  "companyName": "Tech Viet Company",
+  "location": "HCM",
+  "jobType": "remote",
+  "experienceLevel": "mid",
+  "contractType": "full-time",
+  "techStack": [
+    "A"
+  ],
+  "applicantsCount": 0,
+  "viewsCount": 0,
+  "status": "active",
+  "isFeatured": false,
+  "benefits": [],
+  "embedding": [],
+  "createdAt": {
+    "$date": "2025-11-02T11:23:37.373Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-02T11:23:37.373Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69073f927fef1e53338b83ec"
+  },
+  "title": "Fullstack dev",
+  "description": "A",
+  "requirements": "A",
+  "employerId": "69071c484e1bd731bb7cf0e0",
+  "companyName": "Big Viet Company",
+  "location": "HCM",
+  "jobType": "onsite",
+  "experienceLevel": "mid",
+  "contractType": "full-time",
+  "techStack": [
+    "A"
+  ],
+  "applicantsCount": 2,
+  "viewsCount": 0,
+  "status": "active",
+  "isFeatured": false,
+  "benefits": [],
+  "embedding": [],
+  "createdAt": {
+    "$date": "2025-11-02T11:25:06.541Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-02T11:40:07.625Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "690744ba7fef1e53338b857e"
+  },
+  "title": "Test",
+  "description": "A",
+  "requirements": "A",
+  "employerId": "69071c484e1bd731bb7cf0e0",
+  "companyName": "TechViet Company",
+  "location": "HCM",
+  "jobType": "remote",
+  "experienceLevel": "mid",
+  "contractType": "full-time",
+  "techStack": [
+    "A"
+  ],
+  "applicantsCount": 0,
+  "viewsCount": 0,
+  "status": "active",
+  "isFeatured": false,
+  "benefits": [],
+  "embedding": [],
+  "createdAt": {
+    "$date": "2025-11-02T11:47:06.929Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-02T11:47:17.646Z"
+  },
+  "__v": 0
+}]

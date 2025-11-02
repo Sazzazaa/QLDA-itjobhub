@@ -1,0 +1,196 @@
+[{
+  "_id": {
+    "$oid": "690741167fef1e53338b8448"
+  },
+  "userId": "69071c484e1bd731bb7cf0e0",
+  "title": "New Job Application",
+  "message": "Khang nguyen has applied for Lead Flutter Dev",
+  "type": "application",
+  "isRead": false,
+  "createdAt": {
+    "$date": "2025-11-02T11:31:34.613Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-02T11:31:34.613Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "690742627fef1e53338b84af"
+  },
+  "userId": "69071c484e1bd731bb7cf0e0",
+  "title": "New Job Application",
+  "message": "Khang nguyen has applied for Fullstack dev",
+  "type": "application",
+  "isRead": false,
+  "createdAt": {
+    "$date": "2025-11-02T11:37:06.350Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-02T11:37:06.350Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "690743177fef1e53338b84de"
+  },
+  "userId": "69071c484e1bd731bb7cf0e0",
+  "title": "New Job Application",
+  "message": "Nguyen Van A has applied for Fullstack dev",
+  "type": "application",
+  "isRead": false,
+  "createdAt": {
+    "$date": "2025-11-02T11:40:07.626Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-02T11:40:07.626Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "690743727fef1e53338b8505"
+  },
+  "userId": "69071c484e1bd731bb7cf0e0",
+  "title": "New Job Application",
+  "message": "Nguyen Van A has applied for IT job",
+  "type": "application",
+  "isRead": false,
+  "createdAt": {
+    "$date": "2025-11-02T11:41:38.599Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-02T11:41:38.599Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6907443a7fef1e53338b854a"
+  },
+  "userId": "69071c484e1bd731bb7cf0e0",
+  "title": "New Job Application",
+  "message": "Hello has applied for Marketing",
+  "type": "application",
+  "isRead": false,
+  "createdAt": {
+    "$date": "2025-11-02T11:44:58.388Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-02T11:44:58.388Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "690744597fef1e53338b856b"
+  },
+  "userId": {
+    "$oid": "69071c484e1bd731bb7cf0e0"
+  },
+  "title": "New Message",
+  "message": "Hello: Hello",
+  "type": "message",
+  "data": {
+    "conversationId": "690744567fef1e53338b855c",
+    "messageId": "690744597fef1e53338b8567",
+    "senderId": "690743f87fef1e53338b8526"
+  },
+  "isRead": false,
+  "createdAt": {
+    "$date": "2025-11-02T11:45:29.586Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-02T11:45:29.586Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "690744fd7fef1e53338b85bf"
+  },
+  "userId": "690743f87fef1e53338b8526",
+  "title": "Interview Scheduled! 📅",
+  "message": "You have an interview scheduled for Marketing on 10:00:00 3/11/2025",
+  "type": "interview",
+  "data": {
+    "jobId": "69073ee27fef1e53338b83d3",
+    "jobTitle": "Marketing",
+    "scheduledAt": "2025-11-03T10:00:00.000",
+    "interviewType": "online"
+  },
+  "isRead": false,
+  "createdAt": {
+    "$date": "2025-11-02T11:48:13.684Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-02T11:48:13.684Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6907450a7fef1e53338b85d5"
+  },
+  "userId": {
+    "$oid": "690743f87fef1e53338b8526"
+  },
+  "title": "New Message",
+  "message": "TechViet Company: Hi guy",
+  "type": "message",
+  "data": {
+    "conversationId": "690744567fef1e53338b855c",
+    "messageId": "6907450a7fef1e53338b85d1",
+    "senderId": "69071c484e1bd731bb7cf0e0"
+  },
+  "isRead": true,
+  "createdAt": {
+    "$date": "2025-11-02T11:48:26.603Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-02T11:52:56.689Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "690745a07fef1e53338b8640"
+  },
+  "userId": "69071c484e1bd731bb7cf0e0",
+  "title": "Interview Confirmed! ✅",
+  "message": "Hello confirmed the interview for Marketing",
+  "type": "interview",
+  "data": {
+    "jobId": "69073ee27fef1e53338b83d3",
+    "jobTitle": "Marketing",
+    "candidateId": "690743f87fef1e53338b8526",
+    "candidateName": "Hello"
+  },
+  "isRead": false,
+  "createdAt": {
+    "$date": "2025-11-02T11:50:56.513Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-02T11:50:56.513Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "690745db7fef1e53338b865f"
+  },
+  "userId": "690743f87fef1e53338b8526",
+  "title": "Application Approved! 🎉",
+  "message": "Your application for Marketing has been approved. The employer may contact you for an interview.",
+  "type": "application",
+  "isRead": false,
+  "createdAt": {
+    "$date": "2025-11-02T11:51:55.282Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-02T11:51:55.282Z"
+  },
+  "__v": 0
+}]

@@ -1,0 +1,310 @@
+[{
+  "_id": {
+    "$oid": "69071cc64e1bd731bb7cf102"
+  },
+  "userId": "69071c184e1bd731bb7cf0dd",
+  "fileName": "CV_Nguyá»n_VÄn_A.pdf",
+  "fileUrl": "uploads\\556f691c2f4570a6baf7e140edbc8047",
+  "fileSize": 33739,
+  "status": "completed",
+  "isAppliedToProfile": false,
+  "createdAt": {
+    "$date": "2025-11-02T08:56:38.609Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-02T08:56:46.971Z"
+  },
+  "__v": 0,
+  "parsedData": {
+    "name": "Nguyễn Văn A",
+    "email": "nguyenvana@email.com",
+    "phone": "0123456789",
+    "location": "Hà Nội, Việt Nam",
+    "summary": "Lập trình viên Backend giàu kinh nghiệm, chuyên phát triển các ứng dụng hiệu năng cao bằng Python và FastAPI. Xây dựng và triển khai thành công các API RESTful, đảm bảo khả năng mở rộng và bảo trì hệ thống.",
+    "skills": [
+      "Python",
+      "FastAPI",
+      "Docker",
+      "PostgreSQL"
+    ],
+    "experience": [
+      {
+        "title": "Backend Developer",
+        "company": "Tech Company",
+        "startDate": "2024-07",
+        "endDate": "Present",
+        "description": "Developed RESTful APIs using FastAPI, resulting in a 20% improvement in API response time. Built and maintained microservices architecture to enhance system scalability and resilience. Implemented Docker containerization and orchestration, streamlining deployment processes and reducing deployment time by 15%.",
+        "technologies": [
+          "FastAPI",
+          "Docker"
+        ]
+      }
+    ],
+    "education": [
+      {
+        "degree": "Kỹ sư",
+        "major": "Công nghệ thông tin",
+        "institution": "Đại học Bách Khoa Hà Nội",
+        "startYear": null,
+        "endYear": 2024
+      }
+    ],
+    "projects": [],
+    "certifications": [],
+    "languages": [
+      "Tiếng Việt",
+      "Tiếng Anh"
+    ],
+    "githubUrl": null,
+    "linkedinUrl": null,
+    "portfolioUrl": null
+  }
+},
+{
+  "_id": {
+    "$oid": "690740f47fef1e53338b8434"
+  },
+  "userId": "690740cb7fef1e53338b8423",
+  "fileName": "CV_Nguyá»n_VÄn_A.pdf",
+  "fileUrl": "uploads\\cabe562e40a856052cadaf63616d4392",
+  "fileSize": 33739,
+  "status": "completed",
+  "isAppliedToProfile": false,
+  "createdAt": {
+    "$date": "2025-11-02T11:31:00.968Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-02T11:31:12.564Z"
+  },
+  "__v": 0,
+  "parsedData": {
+    "name": "Nguyễn Văn A",
+    "email": "nguyenvana@email.com",
+    "phone": "0123456789",
+    "location": "Hà Nội, Việt Nam",
+    "summary": "Lập trình viên Backend giàu kinh nghiệm, chuyên phát triển các ứng dụng hiệu năng cao bằng Python và FastAPI. Xây dựng và triển khai thành công các API RESTful, đảm bảo khả năng mở rộng và bảo trì hệ thống.",
+    "skills": [
+      "Python",
+      "FastAPI",
+      "Docker",
+      "PostgreSQL"
+    ],
+    "experience": [
+      {
+        "title": "Backend Developer",
+        "company": "Tech Company",
+        "startDate": "2024-07",
+        "endDate": "Present",
+        "description": "Developed RESTful APIs using FastAPI, resulting in a 20% improvement in API response time. Built and maintained microservices architecture to enhance system scalability and resilience. Implemented Docker containerization and orchestration, streamlining deployment processes and reducing deployment time by 15%.",
+        "technologies": [
+          "FastAPI",
+          "Docker"
+        ]
+      }
+    ],
+    "education": [
+      {
+        "degree": "Kỹ sư",
+        "major": "Công nghệ thông tin",
+        "institution": "Đại học Bách Khoa Hà Nội",
+        "startYear": null,
+        "endYear": 2024
+      }
+    ],
+    "projects": [],
+    "certifications": [],
+    "languages": [
+      "Tiếng Việt",
+      "Tiếng Anh"
+    ],
+    "githubUrl": null,
+    "linkedinUrl": null,
+    "portfolioUrl": null
+  }
+},
+{
+  "_id": {
+    "$oid": "6907419d7fef1e53338b8479"
+  },
+  "userId": "690741757fef1e53338b8465",
+  "fileName": "CV_Nguyá»n_VÄn_A.pdf",
+  "fileUrl": "uploads\\59f66793dd5f908a24b40c8aca094c96",
+  "fileSize": 33739,
+  "status": "completed",
+  "isAppliedToProfile": false,
+  "createdAt": {
+    "$date": "2025-11-02T11:33:49.772Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-02T11:34:02.687Z"
+  },
+  "__v": 0,
+  "parsedData": {
+    "name": "Nguyễn Văn A",
+    "email": "nguyenvana@email.com",
+    "phone": "0123456789",
+    "location": "Hà Nội, Việt Nam",
+    "summary": "Lập trình viên Backend giàu kinh nghiệm, chuyên phát triển các ứng dụng hiệu năng cao bằng Python và FastAPI. Xây dựng và triển khai thành công các API RESTful, đảm bảo khả năng mở rộng và bảo trì hệ thống.",
+    "skills": [
+      "Python",
+      "FastAPI",
+      "Docker",
+      "PostgreSQL"
+    ],
+    "experience": [
+      {
+        "title": "Backend Developer",
+        "company": "Tech Company",
+        "startDate": "2024-07",
+        "endDate": "Present",
+        "description": "Developed RESTful APIs using FastAPI, resulting in a 20% improvement in API response time. Built and maintained microservices architecture to enhance system scalability and resilience. Implemented Docker containerization and orchestration, streamlining deployment processes and reducing deployment time by 15%.",
+        "technologies": [
+          "FastAPI",
+          "Docker"
+        ]
+      }
+    ],
+    "education": [
+      {
+        "degree": "Kỹ sư",
+        "major": "Công nghệ thông tin",
+        "institution": "Đại học Bách Khoa Hà Nội",
+        "startYear": null,
+        "endYear": 2024
+      }
+    ],
+    "projects": [],
+    "certifications": [],
+    "languages": [
+      "Vietnamese (Native)",
+      "English (Intermediate)"
+    ],
+    "githubUrl": null,
+    "linkedinUrl": null,
+    "portfolioUrl": null
+  }
+},
+{
+  "_id": {
+    "$oid": "6907423a7fef1e53338b849c"
+  },
+  "userId": "690742177fef1e53338b8488",
+  "fileName": "CV_Nguyá»n_VÄn_A.pdf",
+  "fileUrl": "uploads\\96ba98798e5e057350d768aa183963ea",
+  "fileSize": 33739,
+  "status": "completed",
+  "isAppliedToProfile": false,
+  "createdAt": {
+    "$date": "2025-11-02T11:36:26.919Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-02T11:36:35.368Z"
+  },
+  "__v": 0,
+  "parsedData": {
+    "name": "Nguyễn Văn A",
+    "email": "nguyenvana@email.com",
+    "phone": "0123456789",
+    "location": "Hà Nội, Việt Nam",
+    "summary": "Lập trình viên Backend giàu kinh nghiệm, chuyên phát triển các ứng dụng hiệu năng cao bằng Python và FastAPI. Xây dựng và triển khai thành công các API RESTful, đảm bảo khả năng mở rộng và bảo trì hệ thống.",
+    "skills": [
+      "Python",
+      "FastAPI",
+      "Docker",
+      "PostgreSQL"
+    ],
+    "experience": [
+      {
+        "title": "Backend Developer",
+        "company": "Tech Company",
+        "startDate": "2024-07",
+        "endDate": "Present",
+        "description": "* Developed RESTful APIs using FastAPI, resulting in a 20% improvement in API response time. * Built and maintained microservices architecture to enhance system scalability and resilience. * Implemented Docker containerization and orchestration, streamlining deployment processes and reducing deployment time by 15%.",
+        "technologies": [
+          "FastAPI",
+          "Docker"
+        ]
+      }
+    ],
+    "education": [
+      {
+        "degree": "Kỹ sư",
+        "major": "Công nghệ thông tin",
+        "institution": "Đại học Bách Khoa Hà Nội",
+        "startYear": null,
+        "endYear": 2024
+      }
+    ],
+    "projects": [],
+    "certifications": [],
+    "languages": [
+      "Tiếng Việt",
+      "Tiếng Anh"
+    ],
+    "githubUrl": null,
+    "linkedinUrl": null,
+    "portfolioUrl": null
+  }
+},
+{
+  "_id": {
+    "$oid": "6907441d7fef1e53338b8538"
+  },
+  "userId": "690743f87fef1e53338b8526",
+  "fileName": "CV_Nguyá»n_VÄn_A.pdf",
+  "fileUrl": "uploads\\05f85f8478980eb9e94f87f997e81598",
+  "fileSize": 33739,
+  "status": "completed",
+  "isAppliedToProfile": false,
+  "createdAt": {
+    "$date": "2025-11-02T11:44:29.934Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-02T11:44:38.315Z"
+  },
+  "__v": 0,
+  "parsedData": {
+    "name": "Nguyễn Văn A",
+    "email": "nguyenvana@email.com",
+    "phone": "0123456789",
+    "location": "Hà Nội, Việt Nam",
+    "summary": "Lập trình viên Backend giàu kinh nghiệm, chuyên phát triển các ứng dụng hiệu năng cao bằng Python và FastAPI. Xây dựng và triển khai thành công các API RESTful, đảm bảo khả năng mở rộng và bảo trì hệ thống.",
+    "skills": [
+      "Python",
+      "FastAPI",
+      "Docker",
+      "PostgreSQL"
+    ],
+    "experience": [
+      {
+        "title": "Backend Developer",
+        "company": "Tech Company",
+        "startDate": "2024-07",
+        "endDate": "Present",
+        "description": "Developed RESTful APIs using FastAPI, resulting in a 20% improvement in API response time. Built and maintained microservices architecture to enhance system scalability and resilience. Implemented Docker containerization and orchestration, streamlining deployment processes and reducing deployment time by 15%.",
+        "technologies": [
+          "FastAPI",
+          "Docker"
+        ]
+      }
+    ],
+    "education": [
+      {
+        "degree": "Kỹ sư",
+        "major": "Công nghệ thông tin",
+        "institution": "Đại học Bách Khoa Hà Nội",
+        "startYear": null,
+        "endYear": 2024
+      }
+    ],
+    "projects": [],
+    "certifications": [],
+    "languages": [
+      "Vietnamese (Native)",
+      "English (Intermediate)"
+    ],
+    "githubUrl": null,
+    "linkedinUrl": null,
+    "portfolioUrl": null
+  }
+}]

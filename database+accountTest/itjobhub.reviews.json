@@ -1,0 +1,93 @@
+[{
+  "_id": {
+    "$oid": "69073ffa7fef1e53338b8411"
+  },
+  "reviewerId": {
+    "$oid": "69073ffa7fef1e53338b8410"
+  },
+  "reviewerName": "candidate123@gmail.com",
+  "revieweeId": "comp_69073f927fef1e53338b83ec",
+  "revieweeName": "Big Viet Company",
+  "reviewerRole": "candidate",
+  "revieweeRole": "employer",
+  "companyName": "Big Viet Company",
+  "jobTitle": "N/A",
+  "overallRating": 4,
+  "cultureRating": 3.5,
+  "compensationRating": 3,
+  "workLifeBalanceRating": 3,
+  "managementRating": 3,
+  "reviewTitle": "Hell",
+  "reviewText": "1111111111111111111111111111111111111111aaaaaaaaaaaaa",
+  "isVerified": false,
+  "isPublished": true,
+  "createdAt": {
+    "$date": "2025-11-02T11:26:50.209Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-02T11:26:50.209Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "690741947fef1e53338b8476"
+  },
+  "reviewerId": {
+    "$oid": "690741947fef1e53338b8475"
+  },
+  "reviewerName": "candidate2@gmail.com",
+  "revieweeId": "comp_69073eaf7fef1e53338b83c7",
+  "revieweeName": "Tech Viet Company",
+  "reviewerRole": "candidate",
+  "revieweeRole": "employer",
+  "companyName": "Tech Viet Company",
+  "jobTitle": "N/A",
+  "overallRating": 4,
+  "cultureRating": 3,
+  "compensationRating": 3,
+  "workLifeBalanceRating": 3.5,
+  "managementRating": 3,
+  "reviewTitle": null,
+  "reviewText": "akjclwjerlkcwejro3po4ci2p34oci2p3o4cil;kdrc;rkwelwec;lr",
+  "isVerified": false,
+  "isPublished": true,
+  "createdAt": {
+    "$date": "2025-11-02T11:33:40.970Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-02T11:33:40.970Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "690742327fef1e53338b8499"
+  },
+  "reviewerId": {
+    "$oid": "690742327fef1e53338b8498"
+  },
+  "reviewerName": "candidate3@gmail.com",
+  "revieweeId": "comp_69073f927fef1e53338b83ec",
+  "revieweeName": "Big Viet Company",
+  "reviewerRole": "candidate",
+  "revieweeRole": "employer",
+  "companyName": "Big Viet Company",
+  "jobTitle": "N/A",
+  "overallRating": 4,
+  "cultureRating": 4,
+  "compensationRating": 3,
+  "workLifeBalanceRating": 3,
+  "managementRating": 3,
+  "reviewTitle": null,
+  "reviewText": "324c234c234c234c234c34c234c234c234c234c23c434c34c34c3",
+  "isVerified": false,
+  "isPublished": true,
+  "createdAt": {
+    "$date": "2025-11-02T11:36:18.538Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-02T11:36:18.538Z"
+  },
+  "__v": 0
+}]

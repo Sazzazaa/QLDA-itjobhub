@@ -1,0 +1,228 @@
+[{
+  "_id": {
+    "$oid": "69071c184e1bd731bb7cf0dd"
+  },
+  "name": "Nguyen Van A",
+  "email": "candidate@gmail.com",
+  "password": "$2b$10$Mtxv7g9pxlK54.45mtJOLOsOoFqHdCoipS45Vo.lPrpPBqhtci36K",
+  "role": "candidate",
+  "skills": [],
+  "experience": [],
+  "education": [],
+  "projects": [],
+  "refreshTokens": [],
+  "isEmailVerified": false,
+  "points": 0,
+  "badgeIds": [],
+  "isActive": true,
+  "createdAt": {
+    "$date": "2025-11-02T08:53:44.716Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-02T11:49:20.062Z"
+  },
+  "__v": 0,
+  "lastLogin": {
+    "$date": "2025-11-02T11:49:20.062Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69071c484e1bd731bb7cf0e0"
+  },
+  "name": "Viet Tech Company",
+  "email": "employer@gmail.com",
+  "password": "$2b$10$ya4/ippvuNUW5AXSVWS66.2QVsC719/1s9/6qIZwF4RaxQisOwXyS",
+  "role": "employer",
+  "skills": [],
+  "experience": [],
+  "education": [],
+  "projects": [],
+  "refreshTokens": [],
+  "isEmailVerified": false,
+  "points": 0,
+  "badgeIds": [],
+  "isActive": true,
+  "createdAt": {
+    "$date": "2025-11-02T08:54:32.863Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-02T12:01:19.406Z"
+  },
+  "__v": 0,
+  "lastLogin": {
+    "$date": "2025-11-02T12:01:19.405Z"
+  },
+  "companyDescription": "ABC",
+  "companyName": "Viet Tech Company",
+  "companySize": "11-50 employees",
+  "companyWebsite": "ccaa.com",
+  "industry": "ABC Com",
+  "location": "Ho Chi Minh City",
+  "phone": "098394374825"
+},
+{
+  "_id": {
+    "$oid": "69073fd77fef1e53338b8400"
+  },
+  "name": "Khang Nguyen",
+  "email": "candidate123@gmail.com",
+  "password": "$2b$10$s7BFfs7RCAb0sxn3keHgq.fKc8by.lxkDod8zOKzoE.0MQmrC3u8u",
+  "role": "candidate",
+  "skills": [],
+  "experience": [],
+  "education": [],
+  "projects": [],
+  "refreshTokens": [],
+  "isEmailVerified": false,
+  "points": 0,
+  "badgeIds": [],
+  "isActive": true,
+  "createdAt": {
+    "$date": "2025-11-02T11:26:15.508Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-02T11:26:23.650Z"
+  },
+  "__v": 0,
+  "lastLogin": {
+    "$date": "2025-11-02T11:26:23.650Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "690740cb7fef1e53338b8423"
+  },
+  "name": "Khang nguyen",
+  "email": "candidate1@gmail.com",
+  "password": "$2b$10$VUJsmQ6KYgQPUshNg5ACBOmlrxAWQQG7pDyAaCEBpY1Jlx5KcCKwa",
+  "role": "candidate",
+  "skills": [],
+  "experience": [],
+  "education": [],
+  "projects": [],
+  "refreshTokens": [],
+  "isEmailVerified": false,
+  "points": 0,
+  "badgeIds": [],
+  "isActive": true,
+  "createdAt": {
+    "$date": "2025-11-02T11:30:19.193Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-02T11:30:27.392Z"
+  },
+  "__v": 0,
+  "lastLogin": {
+    "$date": "2025-11-02T11:30:27.392Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "690741757fef1e53338b8465"
+  },
+  "name": "Khang Nguyen",
+  "email": "candidate2@gmail.com",
+  "password": "$2b$10$XfyVgh1XSUAcN5EOiIM9DOp1Y0hjvI9ngTB40g8mm3cWo2kks8trq",
+  "role": "candidate",
+  "skills": [],
+  "experience": [],
+  "education": [],
+  "projects": [],
+  "refreshTokens": [],
+  "isEmailVerified": false,
+  "points": 0,
+  "badgeIds": [],
+  "isActive": true,
+  "createdAt": {
+    "$date": "2025-11-02T11:33:09.388Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-02T11:33:16.916Z"
+  },
+  "__v": 0,
+  "lastLogin": {
+    "$date": "2025-11-02T11:33:16.916Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "690742177fef1e53338b8488"
+  },
+  "name": "Khang nguyen",
+  "email": "candidate3@gmail.com",
+  "password": "$2b$10$lLT5Fw6AyBGjuKqBHl8FKeMZOigghzQRYYqwjPpfZDx/wLjRtmgsa",
+  "role": "candidate",
+  "skills": [],
+  "experience": [],
+  "education": [],
+  "projects": [],
+  "refreshTokens": [],
+  "isEmailVerified": false,
+  "points": 0,
+  "badgeIds": [],
+  "isActive": true,
+  "createdAt": {
+    "$date": "2025-11-02T11:35:51.430Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-02T11:35:59.077Z"
+  },
+  "__v": 0,
+  "lastLogin": {
+    "$date": "2025-11-02T11:35:59.077Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "690742c17fef1e53338b84c1"
+  },
+  "name": "Khang nguyen",
+  "email": "Candidate4@gmail.com",
+  "password": "$2b$10$dzGflbcgUjVfC8w91fyYyuYENZq0WLeTMl0GLbEsZ3nxBsyq2ilVS",
+  "role": "candidate",
+  "skills": [],
+  "experience": [],
+  "education": [],
+  "projects": [],
+  "refreshTokens": [],
+  "isEmailVerified": false,
+  "points": 0,
+  "badgeIds": [],
+  "isActive": true,
+  "createdAt": {
+    "$date": "2025-11-02T11:38:41.683Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-02T11:38:41.683Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "690743f87fef1e53338b8526"
+  },
+  "name": "Hello",
+  "email": "Test@gmail.com",
+  "password": "$2b$10$bXI2x07e.I6fsnfBzyQ/9.ZR10nh1vpt.6t0gdQCba7oSh7QiJsbi",
+  "role": "candidate",
+  "skills": [],
+  "experience": [],
+  "education": [],
+  "projects": [],
+  "refreshTokens": [],
+  "isEmailVerified": false,
+  "points": 0,
+  "badgeIds": [],
+  "isActive": true,
+  "createdAt": {
+    "$date": "2025-11-02T11:43:52.852Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-02T11:52:53.726Z"
+  },
+  "__v": 0,
+  "lastLogin": {
+    "$date": "2025-11-02T11:52:53.726Z"
+  }
+}]

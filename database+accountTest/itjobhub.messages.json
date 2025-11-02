@@ -1,0 +1,54 @@
+[{
+  "_id": {
+    "$oid": "690744597fef1e53338b8567"
+  },
+  "conversationId": {
+    "$oid": "690744567fef1e53338b855c"
+  },
+  "senderId": {
+    "$oid": "690743f87fef1e53338b8526"
+  },
+  "text": "Hello",
+  "status": "read",
+  "isRead": true,
+  "createdAt": {
+    "$date": "2025-11-02T11:45:29.581Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-02T11:48:22.371Z"
+  },
+  "__v": 0,
+  "readAt": {
+    "$date": "2025-11-02T11:48:22.370Z"
+  },
+  "readBy": {
+    "$oid": "69071c484e1bd731bb7cf0e0"
+  }
+},
+{
+  "_id": {
+    "$oid": "6907450a7fef1e53338b85d1"
+  },
+  "conversationId": {
+    "$oid": "690744567fef1e53338b855c"
+  },
+  "senderId": {
+    "$oid": "69071c484e1bd731bb7cf0e0"
+  },
+  "text": "Hi guy",
+  "status": "read",
+  "isRead": true,
+  "createdAt": {
+    "$date": "2025-11-02T11:48:26.599Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-02T11:51:20.174Z"
+  },
+  "__v": 0,
+  "readAt": {
+    "$date": "2025-11-02T11:51:20.174Z"
+  },
+  "readBy": {
+    "$oid": "690743f87fef1e53338b8526"
+  }
+}]
